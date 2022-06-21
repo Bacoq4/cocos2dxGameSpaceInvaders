@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\proj.win32\CMakeFiles\ca4424362e0b705732510a17ef440a2a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{580174A7-9552-373D-AF4A-E4A39E5D617D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

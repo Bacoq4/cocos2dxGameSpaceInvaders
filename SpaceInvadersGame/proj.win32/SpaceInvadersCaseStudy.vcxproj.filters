@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\Classes\HelloWorldScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseUnit.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Bullet.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="Definitions.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\Classes\HelloWorldScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseUnit.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Bullet.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="Definitions.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\Cocos\CocosProjects\SpaceInvadersCaseStudy\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{FC3566F2-4EB0-3835-B219-26C1BD0CA6FE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{4BE55973-FEAE-3632-BE9C-CE586BDAA55B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{998BA64A-2C3B-34A3-8492-94DB648C4CFD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{643316E7-E9A4-3A3C-90DA-559C1F8C5221}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{2D297EF4-CD04-3ACA-BBFC-F4ED71EBC573}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{BA57D39C-B488-30B3-A368-E3A153C4A935}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\SpaceInvaders\proj.win32\bin\SpaceInvaders\Debug\Resources\spaceshipEnemy.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\..\SpaceInvaders\proj.win32\bin\SpaceInvaders\Debug\Resources\spaceshipPlayer.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="bin\SpaceInvadersCaseStudy\Debug\Resources\bullet.png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
